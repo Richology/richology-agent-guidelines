@@ -1,0 +1,7 @@
+# Cover provenance
+
+Generated on 2026-11-12 using OpenAI's built-in image generation tool, then copied into `assets/cover.png`. No CLI fallback was used. The banner was visually checked for text accuracy, composition, and cropping. It contains no third-party logos.
+
+## Prompt
+
+Use case: ads-marketing. Asset type: wide GitHub README cover, landscape 3:1 composition. Create a polished editorial illustration for an open source project called Richology Agent Guidelines, for vibe coding and AI coding collaboration. Warm ivory paper background, charcoal typography, restrained forest green accents. A beautifully composed architectural drafting desk metaphor: an elegant path of four connected precise modules, a scope boundary frame, minimal code brackets, a verification check, and a clear handoff arrow, drawn as refined isometric paper and ink objects on the right half, with generous negative space and subtle tactile grain. Left half has large impeccably legible title, exact text on three lines: 'Richology' / 'Agent Guidelines' / 'Clear scope. Focused changes. Verified results.' Small 'AGENTS.md' label near bottom. Modern Swiss editorial typography, confident restrained craft, calm and practical rather than futuristic. No robots, no neon, no gradients, no third party logos, no extra words. All text must fit safely within generous margins. This should feel like a real high quality open-source project cover.
