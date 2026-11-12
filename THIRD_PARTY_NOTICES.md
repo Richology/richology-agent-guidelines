@@ -4,7 +4,7 @@
 
 [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) is a community project inspired by Andrej Karpathy's observations, not a guide authored or endorsed by Karpathy. Its README also refers to the earlier `forrestchang/andrej-karpathy-skills` address.
 
-The maintainer recalls using a Karpathy-related version as an early foundation. The exact historical revision and line-by-line derivation have not been recovered. The current guide shares principles including simplicity, focused changes, and verification. We link to the upstream project rather than vendoring its source. Its README states MIT; a separate LICENSE file could not be retrieved during publication. No upstream copyright holder has been guessed.
+The initial guidelines drew on a Karpathy-related community guide, adopting simplicity, focused changes, and verification as foundational principles. We link to the upstream project rather than vendoring its source. Its README states MIT; a separate LICENSE file could not be retrieved during publication. No upstream copyright holder has been guessed.
 
 ## i-have-adhd
 
