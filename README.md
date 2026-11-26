@@ -71,7 +71,7 @@
 
 **先在一个项目里试用。** [打开规则文件](AGENTS.md)，或[查看纯文本](https://raw.githubusercontent.com/Richology/richology-agent-guidelines/main/AGENTS.md)。
 
-1. **复制规则。** 将内容放入你的 Agent 支持的项目规则文件；Codex 和 Cursor 可使用项目根目录的 `AGENTS.md`，Claude Code 使用 `CLAUDE.md`。更多工具见下表。
+1. **复制规则。** 将内容放入你的 Agent 支持的项目规则文件；Codex 和 Cursor 可使用项目根目录的 `AGENTS.md`，Claude Code 使用 `CLAUDE.md`。更多工具见[接入不同 Agent](#接入不同-agent)。
 2. **保留项目规范。** 已有规则文件时合并内容，不覆盖原有的技术栈、运行命令和约束。没有规则文件时直接创建。
 3. **开始一个小任务。** 开启新会话，检查规则是否加载，再按平时的方式描述需求。
 
